@@ -1,2 +1,2 @@
-# barnabasowinookoiti.github.io
+barnabasowinookoiti.github.io
 Public 
